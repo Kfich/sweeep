@@ -1,4 +1,4 @@
-> Project Sweeep - Home Cleaning Service
+## Project Sweeep - Home Cleaning Service
 
 ## Included
 
@@ -16,9 +16,6 @@ See [Getting Started](https://facebook.github.io/react-native/docs/getting-start
 $ npm install -g react-native-cli
 $ npm install
 ```
-
-Also, you can use [generator-rnb](https://github.com/jhen0409/generator-rnb) to create project with this boilerplate.
-
 ## Development
 
 #### Start local server

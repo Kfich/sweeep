@@ -1,6 +1,4 @@
-# React Native Boilerplate [![Build Status](https://travis-ci.org/jhen0409/react-native-boilerplate.svg)](https://travis-ci.org/jhen0409/react-native-boilerplate) [![Dependency Status](https://david-dm.org/jhen0409/react-native-boilerplate.svg)](https://david-dm.org/jhen0409/react-native-boilerplate) [![devDependency Status](https://david-dm.org/jhen0409/react-native-boilerplate/dev-status.svg)](https://david-dm.org/jhen0409/react-native-boilerplate?type=dev)
-
-> The React Native, Redux boilerplate for personal usage
+> Project Sweeep - Home Cleaning Service
 
 ## Included
 
@@ -54,11 +52,6 @@ In development mode, you can install [React Native Debugger](https://github.com/
 ```bash
 $ npm test
 ```
-
-## Credits
-
-* [react-native-counter-ios-android](https://github.com/chentsulin/react-native-counter-ios-android)'s counter example.
-
 ## LICENSE
 
 [MIT](LICENSE)
